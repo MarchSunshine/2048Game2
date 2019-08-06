@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_128.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_128.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_undo.png.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_undo.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_rectangle.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\background_rectangle.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_4096.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_4096.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_light_up_rectangle.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\light_up_rectangle.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_undo.png.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_undo.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_2048.png.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-xxhdpi\\logo_2048.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_undo.png.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_undo.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_4.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_4.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_32.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_32.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_64.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_64.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_undo.png.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-hdpi\\ic_action_undo.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_16.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_16.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_1024.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_1024.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_settings.png.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_256.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_256.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fade_rectangle.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\fade_rectangle.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_8.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_8.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_512.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_512.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_2048.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_2048.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cell_rectangle_2.xml.flat",
+        "source": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\src\\main\\res\\drawable-mdpi\\cell_rectangle_2.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\631441571e6a5aa96aed7f2f41e3d0ce\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\liweican\\MyMax\\app\\2048Game2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\lwc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\587b077319792ab57182964f0ebdbf7c\\res\\layout\\notification_media_action.xml"
+    }
+]

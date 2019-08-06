@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.smallwei.g2048"
+        minSdkVersion 17
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            debuggable false //是否调试模式
+            minifyEnabled true
+//            signingConfig signingConfigs.release
+            proguardFile 'proguard-common.pro'
+            proguardFile 'proguard-rules.pro'
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            applicationVariants.all { variant ->
+                variant.outputs.all { output ->
+
+                    def packName = "com.smallwei.g2048"
+                    def time = new Date().format("yyyy-MM-dd", TimeZone.getTimeZone("UTC"))
+                    outputFileName = packName + "_" + time + "_" + "${defaultConfig.versionName}.apk"
+//            def outputFile = output.outputFile
+//            if (outputFile != null && outputFile.name.endsWith('.apk')) {
+//                //    def fileName = outputFile.name.replace(".apk", "-${defaultConfig.versionName}.apk")
+//                output.outputFile = new File(outputFile.parent, packName+"_"+time+"_"+"${defaultConfig.versionName}.apk")
+//            }
+                }
+            }
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+}
